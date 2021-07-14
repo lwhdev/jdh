@@ -1,5 +1,11 @@
 {
-    "name": "82039/weiqing",
-    "type": "library",
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src",
+            "application\\": "extend"
+        }
+    }
 }
