@@ -1,4 +1,5 @@
 {
+    "name": "lolly/jdk",
     "require": {
         "symfony/var-dumper": "^5.3"
     },
