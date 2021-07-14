@@ -8,5 +8,6 @@
             "App\\": "src",
             "application\\": "extend"
         }
-    }
+    },
+    "license": "MIT"
 }
