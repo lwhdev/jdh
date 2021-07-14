@@ -1,1 +1,2 @@
 这是一个测试composer联系项目
+添加了licence
