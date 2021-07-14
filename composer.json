@@ -9,5 +9,6 @@
             "application\\": "extend"
         }
     },
-    "license": "MIT"
+    "license": "MIT",
+    "minimum-stability": "stable"
 }
