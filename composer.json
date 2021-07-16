@@ -1,5 +1,5 @@
 {
-    "name": "lolly/jdk",
+    "name": "lwhdev/jdk",
     "require": {
         "symfony/var-dumper": "^5.3"
     },
